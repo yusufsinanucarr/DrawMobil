@@ -1,0 +1,63 @@
+# ── Android / Gradle ─────────────────────────────
+# Build outputs (per-module and root)
+**/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# Gradle caches (wrapper jar/scripts ARE tracked — only ignore caches)
+.gradle/
+**/.gradle/
+
+# Machine-specific SDK path — NEVER commit
+local.properties
+
+# ── Android Signing & Keystores (Hassas Veriler) ──
+*.jks
+*.keystore
+*.key
+keystore.properties
+signing.properties
+
+# ── Secrets, API Keys & Environment ─────────────
+secrets.properties
+google-services.json
+.env
+*.env
+.env.*
+
+# ── Android Studio / IntelliJ ────────────────────
+**/.idea/
+*.iml
+
+# ── Kotlin / Java ────────────────────────────────
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+
+# Native build symbols
+*.so
+
+# ── Python (PC_Receiver) ─────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller artifacts — regeneratable from the .py source
+**/dist/
+*.spec
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# ── OS junk ──────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Misc ─────────────────────────────────────────
+*.log

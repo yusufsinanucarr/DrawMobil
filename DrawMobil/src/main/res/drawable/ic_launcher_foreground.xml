@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Fırça Sapı -->
+    <path
+        android:fillColor="#8D6E63"
+        android:pathData="M25,83 L45,63 L55,73 L35,93 Z" />
+
+    <!-- Fırça Metal Kısmı -->
+    <path
+        android:fillColor="#BDBDBD"
+        android:pathData="M45,63 L55,53 L65,63 L55,73 Z" />
+
+    <!-- Fırça Kılları -->
+    <path
+        android:fillColor="#FFECB3"
+        android:pathData="M55,53 L75,33 C80,28 85,28 90,33 L75,48 Z" />
+
+    <!-- Mürekkep Damlası (Fırça ucunda) -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M78,30 C82,26 88,26 92,30 C96,34 96,40 92,44 C88,48 82,48 78,44 C74,40 74,34 78,30 Z" />
+
+</vector>
