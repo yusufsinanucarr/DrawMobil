@@ -95,12 +95,11 @@ Bu proje; düşük seviyeli sistem çağrıları (Win32 Pointer API), gerçek za
 
 Bu proje, üniversite 2. sınıf Yazılım Mühendisliği öğrencileri tarafından bir takım çalışması olarak geliştirilmektedir:
 
-* **Yusuf Sinan Uçar** — *Proje Yürütücüsü & Android / Entegrasyon Geliştirici*
-* Ekip Arkadaşları / Katkıda Bulunanlar:
-  * Batuhan K.
-  * Barış U.
-  * Taha Ö.
-  * Yiğit E.
+* **Yusuf Sinan Uçar**
+* **Mücahit Karataş**
+* **Barış Uzun**
+* **Ulaş Baydemir**
+* **Beren Batuhan Demirkol**
 
 ---
 
