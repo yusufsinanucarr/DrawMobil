@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.myapplication"
+    namespace = "com.yusufucar.drawmobil"
     compileSdk {
         version = release(36) {
             minorApiLevel = 1
@@ -12,7 +12,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.myapplication"
+        applicationId = "com.yusufucar.drawmobil"
         minSdk = 26
         targetSdk = 36
         versionCode = 1
