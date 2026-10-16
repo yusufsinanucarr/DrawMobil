@@ -93,7 +93,7 @@ Bu proje; düşük seviyeli sistem çağrıları (Win32 Pointer API), gerçek za
 
 ## 👥 Geliştirici Ekibi (Contributors)
 
-Bu proje, üniversite 2. sınıf Yazılım Mühendisliği öğrencileri tarafından bir takım çalışması olarak geliştirilmektedir:
+Bu proje, Yazılım Mühendisliği öğrencileri tarafından bir takım çalışması olarak geliştirilmektedir:
 
 * **Yusuf Sinan Uçar**
 * **Mücahit Karataş**
